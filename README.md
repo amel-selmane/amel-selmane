@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on : **HTML** | **CSS** | [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/) **JavaScript** with **ReactJS** library
 - 🌱 I’m currently learning [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/) **TypeScript** , **NextJS**, **NodeJS** (Back-end :D) and **Unit Testing**.
 
-- 📫 How to reach me: by email (selmane.amel@gmail.com)
+- 📫 How to reach me: by email (selmane.amel@gmail.com) or Discord (ask me ^^)
 
 Thanks 👍🏼
 
