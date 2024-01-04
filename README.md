@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amel SELMANE 🙂</h1>
-<h3 align="center">Front-end developer from Paris and Marseille</h3>
+<h3 align="center">Front-end developer</h3>
 
 - 🔭 I’m currently working with: 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
